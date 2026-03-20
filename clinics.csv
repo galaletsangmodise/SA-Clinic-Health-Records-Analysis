@@ -1,0 +1,21 @@
+clinic_id,clinic_name,province,district,staff_count,has_digital_system,total_capacity_per_day,year_established
+CLN001,Soweto Community Clinic,Gauteng,Rural,9,Yes,70,1993
+CLN002,Khayelitsha CHC,Western Cape,Urban,22,Yes,107,1988
+CLN003,Umlazi Clinic,KwaZulu-Natal,Urban,17,Yes,71,2005
+CLN004,Mdantsane CHC,Eastern Cape,Rural,13,Yes,138,1981
+CLN005,Seshego Clinic,Limpopo,Urban,10,Yes,98,1999
+CLN006,Nelspruit Gateway Clinic,Mpumalanga,Urban,23,No,108,2007
+CLN007,Rustenburg Clinic,North West,Rural,9,No,64,1986
+CLN008,Bloemfontein Central Clinic,Free State,Urban,21,No,100,1987
+CLN009,Kimberley Clinic,Northern Cape,Urban,13,No,157,2014
+CLN010,Alexandra Clinic,Gauteng,Rural,13,No,104,1993
+CLN011,Mitchell's Plain CHC,Western Cape,Urban,23,No,113,1996
+CLN012,Durban South Clinic,KwaZulu-Natal,Urban,6,No,180,1983
+CLN013,Motherwell Clinic,Eastern Cape,Rural,10,No,100,1981
+CLN014,Tembisa Clinic,Limpopo,Urban,5,No,184,1985
+CLN015,Gugulethu CHC,Mpumalanga,Urban,24,No,70,1983
+CLN016,Inanda Clinic,North West,Rural,23,No,122,2008
+CLN017,Mthatha Clinic,Free State,Urban,4,No,67,1997
+CLN018,Polokwane Clinic,Northern Cape,Urban,14,No,181,2005
+CLN019,Witbank Clinic,Gauteng,Rural,8,No,138,2013
+CLN020,Mafikeng Clinic,Western Cape,Urban,4,No,109,1989

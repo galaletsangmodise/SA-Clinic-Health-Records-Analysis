@@ -1,0 +1,506 @@
+patient_id,first_name,last_name,id_number,date_of_birth,gender,province,has_file,file_type
+PAT0001,Zanele,Mthembu,9232661995,1952-07-23,male,Gauteng,No,Digital
+PAT0002,Thabo,Molefe,7116358629,1961-04-05,F,Western Cape,Yes,
+PAT0003,Kagiso,Cele,9578512016,1986-06-09,male,Northern Cape,Yes,Physical
+PAT0004,Nandi,Mhlongo,7556928892,1983-05-12,M,Eastern Cape,Yes,Physical
+PAT0005,Nandi,Zwane,7233488916,1984-04-26,M,North West,Yes,Digital
+PAT0006,Lerato,Zulu,7828995887,1971-12-24,F,North West,No,Digital
+PAT0007,Zanele,Molefe,9744305859,1966-10-24,female,Free State,Yes,Digital
+PAT0008,Luyanda,Mahlangu,9366856276,1995-07-17,Female,Mpumalanga,Yes,Physical
+PAT0009,Sipho,Cele,7490859006,,female,KwaZulu-Natal,Yes,Physical
+PAT0010,Thandeka,Mahlangu,9648136463,1963-09-08,M,Mpumalanga,Yes,Physical
+PAT0011,Ntombi,Mokoena,8338686258,1951-09-07,female,Limpopo,Yes,Physical
+PAT0012,Nomvula,Sithole,8643326892,1958-06-22,male,Mpumalanga,Yes,
+PAT0013,Thabo,Dlamini,8347347184,1992-04-26,male,Western Cape,Yes,Digital
+PAT0014,Sipho,Nkosi,8834247278,1978-02-23,M,Gauteng,Yes,Physical
+PAT0015,Ayanda,Mahlangu,9706374104,1986-11-06,M,KwaZulu-Natal,Yes,
+PAT0016,Nandi,Hadebe,7774749996,1967-05-10,female,KwaZulu-Natal,Yes,Physical
+PAT0017,Nompumelelo,Zwane,9732109154,1985-09-06,female,Gauteng,Yes,
+PAT0018,Phiwayinkosi,Molefe,9017659110,1983-01-05,male,Western Cape,Yes,Physical
+PAT0019,Thabo,Mkhize,8584394840,1974-06-26,Female,Limpopo,Yes,Physical
+PAT0020,Luyanda,Shabalala,9141218385,1961-07-21,F,Free State,Yes,Physical
+PAT0021,Ayanda,Buthelezi,7989077910,1991-06-21,Female,North West,Yes,Physical
+PAT0022,Luyanda,Mokoena,7910837938,1976-09-06,M,Free State,Yes,Digital
+PAT0023,Ntombi,Ntuli,8192771206,1976-08-02,female,Free State,Yes,Physical
+PAT0024,Nandi,Hadebe,9182276977,1961-09-21,Female,North West,Yes,Physical
+PAT0025,Mpho,Ntuli,8225108035,1956-10-13,female,Limpopo,Yes,Physical
+PAT0026,Thandeka,Mahlangu,9537191863,1966-10-21,Male,Eastern Cape,Yes,Physical
+PAT0027,Kagiso,Sithole,9486518408,1977-10-14,male,Northern Cape,Yes,Physical
+PAT0028,Thabo,Dlamini,8071606116,1951-12-22,F,Western Cape,Yes,Physical
+PAT0029,Bongani,Ndlovu,8107887019,1992-01-19,female,Mpumalanga,Yes,
+PAT0030,Ntombi,Shabalala,9115298574,2002-04-19,F,North West,Yes,Digital
+PAT0031,Tshepo,Mahlangu,9030837892,1975-05-11,female,Western Cape,Yes,Physical
+PAT0032,Kagiso,Mthembu,8983874242,1989-11-04,female,Limpopo,Yes,Physical
+PAT0033,Lerato,Mhlongo,9504972059,1998-11-07,F,Free State,Yes,
+PAT0034,Ayanda,Mkhize,,1989-03-22,F,Northern Cape,No,
+PAT0035,Tshepo,Nkosi,9434084627,1983-07-15,Female,Limpopo,Yes,Digital
+PAT0036,Zanele,Ngubane,7260406450,1973-06-22,female,Gauteng,No,Digital
+PAT0037,Sipho,Mahlangu,7181486592,1954-08-01,Male,Eastern Cape,Yes,Physical
+PAT0038,Sizwe,Ndlovu,7443638392,1985-04-19,Female,North West,Yes,Physical
+PAT0039,Zanele,Mkhize,8612532306,1984-04-11,M,Gauteng,No,
+PAT0040,Lindiwe,Sithole,8379496864,1966-11-13,M,Gauteng,Yes,
+PAT0041,Lindiwe,Mkhize,7220606530,1992-02-09,male,Eastern Cape,No,Digital
+PAT0042,Phiwayinkosi,Mhlongo,9260295413,1975-02-21,Male,Limpopo,Yes,Physical
+PAT0043,Kagiso,Ngubane,9659931663,1958-09-08,female,Eastern Cape,No,Physical
+PAT0044,Nomvula,Zwane,8659398994,1966-01-25,Male,KwaZulu-Natal,Yes,
+PAT0045,Mpho,Zulu,7611882495,1992-08-10,M,Limpopo,Yes,Physical
+PAT0046,Luyanda,Mkhize,7689414763,1974-07-03,female,Limpopo,Yes,
+PAT0047,Zanele,Zwane,7394542291,1952-02-05,Male,Mpumalanga,No,Physical
+PAT0048,Sizwe,Mhlongo,7654198554,1993-12-19,F,Western Cape,No,Physical
+PAT0049,Sipho,Shabalala,7672734696,1979-06-02,Female,Gauteng,No,
+PAT0050,Luyanda,Ngubane,9570521698,1961-03-05,female,Free State,No,Digital
+PAT0051,Palesa,Mkhize,9889815737,1993-11-27,F,North West,Yes,Physical
+PAT0052,Phiwayinkosi,Mthembu,8129601854,1998-01-10,Female,KwaZulu-Natal,Yes,Physical
+PAT0053,Lindiwe,Hadebe,9696377528,2004-01-15,Male,KwaZulu-Natal,Yes,Physical
+PAT0054,Thandeka,Mkhize,9575276249,1961-08-19,female,North West,Yes,
+PAT0055,Ayanda,Khumalo,9182652707,1957-05-17,male,Northern Cape,Yes,Physical
+PAT0056,Sipho,Mahlangu,8257586791,1972-05-22,male,Eastern Cape,Yes,Physical
+PAT0057,Nomvula,Khumalo,8574826535,1965-06-08,M,Northern Cape,No,Physical
+PAT0058,Nandi,Mhlongo,8949075931,,F,Northern Cape,Yes,
+PAT0059,Palesa,Hadebe,8838351202,1961-11-26,female,Mpumalanga,Yes,
+PAT0060,Sipho,Mahlangu,8098525218,1990-10-15,F,Western Cape,Yes,Physical
+PAT0061,Nandi,Khumalo,9875875389,1981-10-16,Male,North West,Yes,Physical
+PAT0062,Zanele,Mkhize,,1956-01-23,male,Gauteng,Yes,Physical
+PAT0063,Sizwe,Molefe,7891462930,1975-05-22,F,North West,No,Digital
+PAT0064,Kagiso,Cele,8101797287,1956-05-07,M,Gauteng,Yes,Physical
+PAT0065,Mpho,Mahlangu,7863033511,1958-03-16,female,Free State,Yes,Physical
+PAT0066,Lindiwe,Khumalo,7158091659,1957-02-27,male,Western Cape,No,Digital
+PAT0067,Bongani,Zulu,8339848098,1972-02-20,F,Mpumalanga,Yes,Digital
+PAT0068,Lindiwe,Zulu,8126487546,1988-03-18,F,North West,Yes,
+PAT0069,Lindiwe,Ngubane,7348559338,1991-07-17,female,North West,Yes,Physical
+PAT0070,Ayanda,Molefe,8425843911,,M,North West,Yes,Physical
+PAT0071,Kagiso,Sithole,9149369680,1993-12-13,Male,Limpopo,Yes,Physical
+PAT0072,Sipho,Sithole,7849972959,1983-03-05,M,Western Cape,No,Physical
+PAT0073,Phiwayinkosi,Mahlangu,7713967694,1992-08-26,Male,North West,No,Physical
+PAT0074,Bongani,Ntuli,9733565736,2004-07-12,Female,Gauteng,Yes,Physical
+PAT0075,Luyanda,Sithole,8329759155,1988-08-17,F,Mpumalanga,Yes,Digital
+PAT0076,Nandi,Mokoena,7473556534,1953-06-25,F,KwaZulu-Natal,Yes,Digital
+PAT0077,Bongani,Molefe,,1962-02-01,male,Free State,Yes,Digital
+PAT0078,Mpho,Shabalala,8210769815,1965-10-12,Female,Mpumalanga,Yes,
+PAT0079,Sizwe,Shabalala,8076133049,1951-07-03,F,Western Cape,Yes,Digital
+PAT0080,Kagiso,Zulu,8627896423,1991-02-27,Male,North West,No,Physical
+PAT0081,Luyanda,Ngubane,9831774108,2004-02-03,female,Western Cape,No,Physical
+PAT0082,Nandi,Mkhize,8926078158,1988-04-17,Male,Eastern Cape,No,Physical
+PAT0083,Tshepo,Shabalala,8741898400,1978-05-12,F,North West,Yes,Physical
+PAT0084,Nomvula,Nkosi,8738153255,1965-08-12,F,North West,No,Digital
+PAT0085,Nandi,Mokoena,7667915499,1996-09-10,Male,Northern Cape,Yes,Digital
+PAT0086,Nomvula,Shabalala,7063967197,1979-09-07,female,Western Cape,Yes,Physical
+PAT0087,Tshepo,Ntuli,9744282648,1969-05-01,Female,North West,No,
+PAT0088,Sizwe,Buthelezi,7328126539,1979-01-03,F,Limpopo,No,Physical
+PAT0089,Kagiso,Dlamini,8845249445,1994-08-18,male,Mpumalanga,Yes,
+PAT0090,Sipho,Buthelezi,8795273557,1953-02-05,Male,Eastern Cape,Yes,Physical
+PAT0091,Ayanda,Ntuli,9131913200,1974-01-21,Male,Mpumalanga,Yes,Physical
+PAT0092,Thandeka,Hadebe,9436493961,1995-09-15,male,KwaZulu-Natal,Yes,Physical
+PAT0093,Tshepo,Dlamini,8781485973,1998-09-24,Male,Western Cape,Yes,
+PAT0094,Ayanda,Mthethwa,8192223869,1953-12-27,male,Northern Cape,Yes,Digital
+PAT0095,Sibusiso,Cele,9572871956,1986-05-11,male,Western Cape,No,Physical
+PAT0096,Sizwe,Ntuli,8123979352,1955-07-24,male,Northern Cape,No,Physical
+PAT0097,Mpho,Shabalala,7385687944,1995-08-11,female,Northern Cape,Yes,Physical
+PAT0098,Lerato,Ngubane,8351607015,1962-02-25,Female,Eastern Cape,Yes,Physical
+PAT0099,Kagiso,Ngubane,8284922218,1956-04-04,Female,Mpumalanga,Yes,
+PAT0100,Lerato,Zwane,7865175735,1957-04-22,M,Mpumalanga,No,
+PAT0101,Nandi,Mahlangu,9567885555,2002-03-13,female,KwaZulu-Natal,Yes,Physical
+PAT0102,Luyanda,Hadebe,8075519050,1995-10-11,M,Eastern Cape,Yes,Physical
+PAT0103,Luyanda,Mahlangu,9820752045,1983-09-26,F,Western Cape,Yes,Physical
+PAT0104,Kagiso,Khumalo,8164824436,1990-01-26,Female,KwaZulu-Natal,No,Physical
+PAT0105,Thandeka,Shabalala,9054636895,1952-08-06,Female,Limpopo,Yes,Physical
+PAT0106,Ntombi,Hadebe,8509111225,1954-05-22,Female,Eastern Cape,Yes,
+PAT0107,Thandeka,Dlamini,8367738996,1996-07-17,Male,KwaZulu-Natal,No,Physical
+PAT0108,Sizwe,Ntuli,9057168683,1958-03-20,M,KwaZulu-Natal,Yes,Digital
+PAT0109,Lindiwe,Zulu,8030478679,1998-11-10,female,Western Cape,Yes,Physical
+PAT0110,Nandi,Ntuli,,1984-02-18,M,KwaZulu-Natal,Yes,Physical
+PAT0111,Lerato,Mthembu,7830904444,1966-08-03,F,Free State,Yes,Physical
+PAT0112,Nompumelelo,Mkhize,8783752060,1981-03-06,Female,Free State,Yes,
+PAT0113,Sibusiso,Sithole,9656651301,1962-08-15,female,Free State,No,Physical
+PAT0114,Sipho,Zwane,8153954170,1974-09-04,M,Mpumalanga,No,
+PAT0115,Nomvula,Ngubane,8241201190,1963-05-02,Female,Mpumalanga,Yes,Digital
+PAT0116,Zanele,Dlamini,8416651980,1960-09-24,Female,KwaZulu-Natal,Yes,
+PAT0117,Lerato,Ntuli,9683472184,1952-11-28,female,Free State,Yes,Physical
+PAT0118,Bongani,Buthelezi,8181164394,1978-09-03,F,Western Cape,Yes,Digital
+PAT0119,Ntombi,Buthelezi,9541802816,1974-02-12,male,Free State,No,Physical
+PAT0120,Phiwayinkosi,Dlamini,8639186854,1991-09-15,female,Free State,Yes,Physical
+PAT0121,Sipho,Molefe,7367328455,1989-09-05,male,Limpopo,Yes,
+PAT0122,Sizwe,Shabalala,7041152686,1960-11-02,F,Limpopo,Yes,Physical
+PAT0123,Sizwe,Sithole,7570591154,1973-12-15,Male,Gauteng,Yes,Physical
+PAT0124,Phiwayinkosi,Mkhize,7108302409,1987-08-27,female,Mpumalanga,Yes,Physical
+PAT0125,Mpho,Mthembu,8761901784,1954-10-18,male,Northern Cape,No,Digital
+PAT0126,Nompumelelo,Nkosi,8589249096,1955-05-28,F,Western Cape,Yes,Physical
+PAT0127,Kagiso,Khumalo,8059658343,1997-12-05,M,Limpopo,Yes,Physical
+PAT0128,Luyanda,Ntuli,7548496801,1962-01-18,Female,Free State,Yes,Physical
+PAT0129,Thabo,Zulu,8503631537,1989-03-26,Male,Free State,Yes,
+PAT0130,Zanele,Mokoena,9354632841,,female,Gauteng,Yes,
+PAT0131,Luyanda,Mkhize,7296939716,1983-08-27,male,Gauteng,No,
+PAT0132,Kagiso,Zulu,9200646625,1962-01-06,M,Mpumalanga,No,Digital
+PAT0133,Tshepo,Zulu,9488118992,1973-03-16,male,Limpopo,Yes,Physical
+PAT0134,Zanele,Ntuli,,1989-12-01,F,Western Cape,Yes,Physical
+PAT0135,Palesa,Khumalo,7776767655,1997-09-13,female,Western Cape,Yes,Physical
+PAT0136,Ntombi,Shabalala,9376505495,1992-09-21,F,Northern Cape,Yes,Digital
+PAT0137,Bongani,Khumalo,7880237614,1991-04-27,male,North West,Yes,Digital
+PAT0138,Mpho,Molefe,8241476919,1987-12-07,female,Free State,No,Physical
+PAT0139,Thabo,Hadebe,8421391853,1954-11-13,male,Northern Cape,Yes,Physical
+PAT0140,Kagiso,Dlamini,8189354769,2000-07-10,Female,Gauteng,Yes,
+PAT0141,Nompumelelo,Ngubane,8808992148,1959-11-21,female,Free State,No,Digital
+PAT0142,Bongani,Nkosi,9849227457,1979-07-18,female,Eastern Cape,Yes,Digital
+PAT0143,Nompumelelo,Mthethwa,9279988509,1985-02-14,Male,Mpumalanga,No,Physical
+PAT0144,Zanele,Mahlangu,7311255777,1962-12-07,Female,Free State,Yes,
+PAT0145,Palesa,Molefe,8841793491,1951-11-17,female,Northern Cape,Yes,Digital
+PAT0146,Nompumelelo,Nkosi,8137334124,1990-01-08,M,KwaZulu-Natal,Yes,Physical
+PAT0147,Phiwayinkosi,Dlamini,9515524051,1980-02-28,male,Gauteng,Yes,
+PAT0148,Ayanda,Mahlangu,8799201004,1973-03-16,M,Free State,No,Physical
+PAT0149,Lerato,Mokoena,7873365869,1955-03-07,male,Western Cape,Yes,Physical
+PAT0150,Lindiwe,Dlamini,8975858027,1959-09-02,F,Mpumalanga,Yes,Physical
+PAT0151,Bongani,Zwane,9119117966,1977-12-15,male,Western Cape,No,Physical
+PAT0152,Luyanda,Sithole,9037888987,1979-05-22,Male,Northern Cape,Yes,Physical
+PAT0153,Nompumelelo,Mahlangu,9362765465,1953-04-04,F,KwaZulu-Natal,Yes,Physical
+PAT0154,Thabo,Sithole,9792642693,1999-04-27,female,Gauteng,Yes,Digital
+PAT0155,Phiwayinkosi,Hadebe,9229675752,1966-12-22,male,Eastern Cape,No,Physical
+PAT0156,Tshepo,Ndlovu,7739481830,1966-10-22,Male,Free State,Yes,Digital
+PAT0157,Sibusiso,Buthelezi,9108076177,1950-06-26,M,Free State,No,Physical
+PAT0158,Thabo,Mokoena,7260469932,1967-02-14,F,Northern Cape,Yes,Physical
+PAT0159,Zanele,Mkhize,7323189308,1996-12-04,F,Northern Cape,Yes,Physical
+PAT0160,Lindiwe,Khumalo,9681943838,1984-04-12,Male,KwaZulu-Natal,Yes,Physical
+PAT0161,Palesa,Mthethwa,9206532931,1956-11-01,M,Mpumalanga,Yes,Physical
+PAT0162,Nandi,Mthembu,7748412664,1955-03-11,F,Mpumalanga,Yes,Physical
+PAT0163,Nomvula,Zwane,9260141512,1972-10-02,female,Limpopo,Yes,Digital
+PAT0164,Nandi,Zwane,8773488805,1995-02-04,male,North West,No,Physical
+PAT0165,Thandeka,Ndlovu,7053381559,1966-03-13,Female,North West,Yes,Physical
+PAT0166,Sipho,Mthembu,7201578404,1990-07-15,M,Mpumalanga,No,Physical
+PAT0167,Sipho,Cele,8146494343,2004-11-20,male,Gauteng,Yes,Physical
+PAT0168,Sibusiso,Ndlovu,7294761580,1981-02-15,Female,Mpumalanga,No,Physical
+PAT0169,Sipho,Buthelezi,8135308004,1963-04-22,F,Western Cape,Yes,Physical
+PAT0170,Luyanda,Dlamini,8908119130,1960-11-03,Female,Mpumalanga,No,Digital
+PAT0171,Lerato,Cele,9162405249,1966-12-24,M,Western Cape,No,Digital
+PAT0172,Lerato,Buthelezi,7673164506,1977-05-15,male,Northern Cape,Yes,
+PAT0173,Sibusiso,Ntuli,8444578253,1965-05-27,F,North West,Yes,
+PAT0174,Luyanda,Ntuli,7095366188,1969-06-19,F,Limpopo,Yes,
+PAT0175,Bongani,Mokoena,8752513141,1954-03-27,F,Limpopo,Yes,Digital
+PAT0176,Kagiso,Molefe,7788827617,1950-10-28,F,KwaZulu-Natal,No,Physical
+PAT0177,Nompumelelo,Buthelezi,8664207484,1987-02-03,Female,Mpumalanga,No,Physical
+PAT0178,Phiwayinkosi,Mahlangu,7592025452,1998-09-24,F,Western Cape,Yes,Physical
+PAT0179,Ntombi,Ndlovu,9888916881,1961-02-15,Male,KwaZulu-Natal,Yes,Physical
+PAT0180,Ayanda,Cele,7231503849,1993-11-08,F,Mpumalanga,No,
+PAT0181,Luyanda,Zwane,8262328390,1995-09-17,F,Limpopo,Yes,Physical
+PAT0182,Ayanda,Ndlovu,8965907905,1978-05-08,Male,North West,Yes,
+PAT0183,Palesa,Buthelezi,9720685611,1964-11-14,male,KwaZulu-Natal,Yes,
+PAT0184,Sizwe,Nkosi,7277643839,1999-04-07,female,Western Cape,No,Physical
+PAT0185,Lindiwe,Mthethwa,8888526878,1952-12-21,Male,Limpopo,Yes,Digital
+PAT0186,Mpho,Ngubane,8621507303,1973-12-26,M,Northern Cape,Yes,Physical
+PAT0187,Nompumelelo,Shabalala,8920631851,1952-04-14,male,North West,Yes,Physical
+PAT0188,Mpho,Mthethwa,8492447833,1964-09-14,F,Mpumalanga,Yes,Digital
+PAT0189,Zanele,Molefe,7120393427,1956-01-12,Female,KwaZulu-Natal,Yes,Digital
+PAT0190,Nandi,Mhlongo,7041016052,1969-04-09,Male,Northern Cape,Yes,Physical
+PAT0191,Nandi,Zulu,9515936387,1987-09-28,male,Western Cape,Yes,
+PAT0192,Sipho,Dlamini,7384054913,1971-06-21,male,North West,Yes,Physical
+PAT0193,Tshepo,Shabalala,7830878723,2002-02-24,F,Northern Cape,No,
+PAT0194,Thabo,Hadebe,8519375107,1957-11-13,female,Mpumalanga,Yes,
+PAT0195,Thandeka,Ndlovu,9656189945,1966-08-21,Female,Gauteng,No,Physical
+PAT0196,Luyanda,Shabalala,8004879967,1967-02-14,Female,Mpumalanga,Yes,Digital
+PAT0197,Nandi,Mthethwa,7887691417,1996-06-11,Female,Limpopo,Yes,Physical
+PAT0198,Thandeka,Mkhize,9826034267,1994-09-01,M,KwaZulu-Natal,Yes,Physical
+PAT0199,Nandi,Sithole,7828468668,1987-09-08,male,Eastern Cape,Yes,Physical
+PAT0200,Thabo,Shabalala,8572651412,1960-06-19,M,Mpumalanga,No,Physical
+PAT0201,Sipho,Mthembu,7076448587,1973-09-17,M,Free State,No,Physical
+PAT0202,Nomvula,Mhlongo,7607938164,1961-09-14,male,Eastern Cape,Yes,Digital
+PAT0203,Nandi,Khumalo,9240939867,1981-06-22,Female,Eastern Cape,Yes,Physical
+PAT0204,Sipho,Zwane,7388573504,1977-04-01,male,KwaZulu-Natal,Yes,Physical
+PAT0205,Nomvula,Ngubane,8669083786,1959-08-18,female,KwaZulu-Natal,Yes,Physical
+PAT0206,Tshepo,Hadebe,8144532122,1982-02-01,male,Western Cape,Yes,Digital
+PAT0207,Sipho,Mkhize,7861002571,1982-09-13,F,Limpopo,Yes,Physical
+PAT0208,Nompumelelo,Shabalala,7707413143,,male,Western Cape,Yes,Digital
+PAT0209,Nandi,Buthelezi,9198998357,2001-10-22,Male,Northern Cape,No,Physical
+PAT0210,Kagiso,Khumalo,7615774440,1988-02-06,female,Northern Cape,Yes,Digital
+PAT0211,Sibusiso,Zulu,8513236644,1988-10-14,Male,Northern Cape,No,Physical
+PAT0212,Ayanda,Mahlangu,8744593914,1999-02-10,Female,Gauteng,Yes,Physical
+PAT0213,Luyanda,Molefe,8862429787,2004-12-17,Female,Mpumalanga,Yes,Physical
+PAT0214,Lerato,Khumalo,8781321728,1989-11-03,F,KwaZulu-Natal,Yes,Physical
+PAT0215,Thandeka,Mkhize,8192811698,1955-09-06,F,North West,Yes,Digital
+PAT0216,Thandeka,Mahlangu,7400551395,1958-07-09,F,KwaZulu-Natal,Yes,
+PAT0217,Sibusiso,Mkhize,8951058400,1999-12-08,female,KwaZulu-Natal,Yes,
+PAT0218,Nandi,Buthelezi,9010693502,1957-02-28,M,KwaZulu-Natal,Yes,Physical
+PAT0219,Sibusiso,Zwane,7592641717,1969-11-07,male,KwaZulu-Natal,Yes,Digital
+PAT0220,Ntombi,Ntuli,7520355946,1960-04-16,Male,Free State,Yes,Physical
+PAT0221,Ayanda,Zulu,7055879335,1953-06-26,female,Gauteng,Yes,Physical
+PAT0222,Zanele,Dlamini,8261218266,1971-10-03,Male,North West,Yes,Physical
+PAT0223,Zanele,Hadebe,8028968192,1990-12-10,male,Mpumalanga,Yes,Physical
+PAT0224,Ntombi,Zulu,8423036588,1963-11-18,M,Eastern Cape,Yes,Digital
+PAT0225,Lindiwe,Mthembu,9371284636,2003-12-23,Male,Free State,No,Physical
+PAT0226,Ntombi,Hadebe,8978762062,1961-09-13,female,Limpopo,Yes,
+PAT0227,Ntombi,Mokoena,7841778860,2000-10-19,male,Free State,No,Digital
+PAT0228,Mpho,Mthethwa,8527186305,2004-04-13,F,Eastern Cape,Yes,Physical
+PAT0229,Nomvula,Khumalo,9734197541,1957-07-21,F,Northern Cape,Yes,Digital
+PAT0230,Zanele,Zulu,7094498330,2004-03-12,F,Eastern Cape,Yes,Physical
+PAT0231,Nomvula,Khumalo,7382039924,1967-06-18,male,Limpopo,Yes,Digital
+PAT0232,Sizwe,Zwane,7900317801,1968-06-05,M,Free State,No,
+PAT0233,Tshepo,Khumalo,8032517731,1981-08-09,female,Eastern Cape,No,Physical
+PAT0234,Zanele,Ngubane,8793098241,1952-12-10,F,Mpumalanga,No,Physical
+PAT0235,Nandi,Dlamini,9140463539,2000-03-22,male,Free State,Yes,Physical
+PAT0236,Ayanda,Mhlongo,9037652542,1964-01-07,Male,Free State,Yes,
+PAT0237,Ayanda,Mokoena,9839222191,1961-01-21,F,Limpopo,Yes,Physical
+PAT0238,Luyanda,Molefe,7391827938,1980-10-24,Female,North West,Yes,Digital
+PAT0239,Mpho,Mahlangu,9813102540,1969-05-04,female,Northern Cape,Yes,Physical
+PAT0240,Lerato,Shabalala,7881936541,1977-12-20,Male,Northern Cape,Yes,Physical
+PAT0241,Ntombi,Hadebe,9892072365,1973-02-17,M,North West,Yes,Digital
+PAT0242,Bongani,Ngubane,9381689702,2000-09-04,M,KwaZulu-Natal,Yes,Physical
+PAT0243,Kagiso,Mahlangu,8682532324,2002-02-04,male,Eastern Cape,Yes,Physical
+PAT0244,Mpho,Hadebe,8670828419,1951-02-04,M,KwaZulu-Natal,No,Digital
+PAT0245,Nandi,Hadebe,7199712810,1955-07-10,Female,Limpopo,Yes,
+PAT0246,Sipho,Mkhize,9032973923,2000-03-26,F,Gauteng,Yes,Physical
+PAT0247,Mpho,Dlamini,9347785186,2003-12-03,Male,Free State,No,Physical
+PAT0248,Luyanda,Molefe,9875346977,1994-02-08,F,Mpumalanga,No,Digital
+PAT0249,Zanele,Cele,,1970-01-03,female,Northern Cape,Yes,Physical
+PAT0250,Nomvula,Mahlangu,7048495849,1975-08-04,F,Western Cape,Yes,Digital
+PAT0251,Luyanda,Ntuli,8406084709,1997-07-10,male,Northern Cape,Yes,Physical
+PAT0252,Thabo,Mahlangu,8240627619,1993-02-23,F,Western Cape,Yes,Physical
+PAT0253,Sipho,Cele,8566434072,1986-05-06,female,Limpopo,Yes,
+PAT0254,Nandi,Buthelezi,7393991504,1994-09-22,Male,Western Cape,Yes,Physical
+PAT0255,Bongani,Mthethwa,9310088576,1996-08-07,Female,KwaZulu-Natal,Yes,
+PAT0256,Ntombi,Hadebe,9140216029,1974-04-02,Male,Limpopo,Yes,
+PAT0257,Sibusiso,Ngubane,,1988-06-17,Male,Free State,No,Physical
+PAT0258,Sibusiso,Mhlongo,8297967316,1974-09-28,male,Northern Cape,No,
+PAT0259,Ayanda,Mthethwa,9343875175,1951-03-05,female,KwaZulu-Natal,Yes,Physical
+PAT0260,Sizwe,Shabalala,8928156348,1954-01-08,Male,North West,No,Digital
+PAT0261,Nomvula,Ngubane,9598487190,1961-08-04,Male,Western Cape,Yes,Physical
+PAT0262,Bongani,Zulu,7177414376,1994-07-15,Female,Eastern Cape,Yes,Digital
+PAT0263,Sizwe,Mthethwa,9593154486,1980-11-10,M,Free State,Yes,Physical
+PAT0264,Thabo,Mkhize,8102349053,1952-06-14,Female,Mpumalanga,Yes,Physical
+PAT0265,Sizwe,Khumalo,9000393703,1965-10-10,female,Gauteng,Yes,Digital
+PAT0266,Kagiso,Cele,8726039120,1961-09-01,female,North West,No,Digital
+PAT0267,Mpho,Khumalo,7111246063,1954-04-08,male,Gauteng,Yes,Physical
+PAT0268,Palesa,Mahlangu,9862041667,1992-12-01,F,North West,Yes,Physical
+PAT0269,Ntombi,Ndlovu,8608767819,2003-04-28,F,Northern Cape,Yes,Physical
+PAT0270,Luyanda,Mokoena,8058881539,1992-05-15,F,Mpumalanga,Yes,Physical
+PAT0271,Sibusiso,Zulu,8271175835,1986-12-05,M,Eastern Cape,Yes,Physical
+PAT0272,Lerato,Ndlovu,7202607042,1998-01-24,female,North West,Yes,Digital
+PAT0273,Ayanda,Ngubane,8787788102,1993-08-28,M,Western Cape,Yes,Digital
+PAT0274,Palesa,Mthembu,8667201924,1996-06-12,F,Mpumalanga,No,Physical
+PAT0275,Ayanda,Mokoena,7276332581,1969-02-14,F,Eastern Cape,No,Digital
+PAT0276,Nomvula,Mokoena,8225034324,1951-09-05,Female,Gauteng,Yes,
+PAT0277,Thandeka,Hadebe,7562791255,1969-10-01,female,Mpumalanga,Yes,Digital
+PAT0278,Luyanda,Khumalo,7510911009,2004-03-06,F,Western Cape,No,
+PAT0279,Nomvula,Buthelezi,9262576124,1986-05-27,Male,Mpumalanga,Yes,Digital
+PAT0280,Tshepo,Mhlongo,7011163193,1954-01-17,female,KwaZulu-Natal,Yes,
+PAT0281,Nomvula,Zwane,9430278449,2000-12-10,M,KwaZulu-Natal,Yes,
+PAT0282,Nomvula,Cele,8353314925,1969-05-18,female,Gauteng,No,Digital
+PAT0283,Thandeka,Ndlovu,9692157938,1973-11-11,male,Limpopo,Yes,
+PAT0284,Sibusiso,Mokoena,8515572633,1983-09-18,Male,Free State,Yes,Physical
+PAT0285,Nompumelelo,Cele,8056719702,1978-09-07,F,KwaZulu-Natal,Yes,Physical
+PAT0286,Nompumelelo,Mahlangu,7005059175,1980-08-15,male,Free State,Yes,
+PAT0287,Bongani,Mthethwa,8790993000,1992-02-23,Female,Free State,No,
+PAT0288,Nomvula,Mthembu,8912736989,1993-06-20,female,Gauteng,Yes,Physical
+PAT0289,Nompumelelo,Cele,7507138190,1972-04-16,female,Western Cape,No,Physical
+PAT0290,Sipho,Dlamini,9857694636,1999-10-28,Female,Gauteng,Yes,Physical
+PAT0291,Bongani,Ngubane,9731615809,2004-08-18,male,Limpopo,Yes,Physical
+PAT0292,Sipho,Sithole,8633745178,1970-01-23,Male,Eastern Cape,Yes,Physical
+PAT0293,Phiwayinkosi,Khumalo,8446298245,1957-06-05,F,KwaZulu-Natal,Yes,
+PAT0294,Sipho,Nkosi,7388663048,1996-06-15,male,Northern Cape,Yes,Physical
+PAT0295,Nandi,Nkosi,7220505544,1983-01-23,M,Northern Cape,Yes,
+PAT0296,Sizwe,Ngubane,8767164419,2004-10-11,F,North West,Yes,Digital
+PAT0297,Zanele,Cele,8384121249,1959-02-18,male,Western Cape,Yes,Physical
+PAT0298,Thandeka,Sithole,8891901770,1966-10-08,Male,Limpopo,Yes,Digital
+PAT0299,Nandi,Hadebe,7941755363,,female,Eastern Cape,No,Physical
+PAT0300,Thandeka,Ndlovu,,1961-11-08,male,Limpopo,Yes,Physical
+PAT0301,Phiwayinkosi,Dlamini,8069858901,1974-04-01,Female,Western Cape,Yes,Physical
+PAT0302,Nomvula,Buthelezi,8739817544,1950-03-16,Male,Gauteng,No,Physical
+PAT0303,Phiwayinkosi,Cele,9814434374,1963-05-16,female,Eastern Cape,Yes,Physical
+PAT0304,Sipho,Hadebe,7153552252,1954-09-26,Male,North West,Yes,
+PAT0305,Ntombi,Hadebe,7814187881,1977-02-18,F,Free State,Yes,
+PAT0306,Thandeka,Mkhize,7070507241,1955-09-01,Female,Western Cape,Yes,
+PAT0307,Thandeka,Zulu,9047267941,1990-09-16,F,Western Cape,Yes,
+PAT0308,Nompumelelo,Mthembu,7260358002,1962-09-21,F,Free State,Yes,
+PAT0309,Tshepo,Nkosi,,1962-09-11,M,Northern Cape,Yes,Physical
+PAT0310,Kagiso,Khumalo,9509765637,1953-02-06,Male,Gauteng,No,Digital
+PAT0311,Ayanda,Hadebe,7704914177,1995-04-06,Male,Northern Cape,Yes,Physical
+PAT0312,Tshepo,Ndlovu,9535913180,1968-06-02,male,Eastern Cape,No,Digital
+PAT0313,Nandi,Molefe,9165656449,1967-09-23,Female,KwaZulu-Natal,Yes,Digital
+PAT0314,Kagiso,Ntuli,9822086971,1968-11-01,Female,Limpopo,No,
+PAT0315,Sizwe,Hadebe,8260125164,1973-06-07,M,North West,No,
+PAT0316,Lerato,Molefe,9238788941,1974-05-15,Female,Gauteng,Yes,Physical
+PAT0317,Palesa,Buthelezi,9766336569,1950-12-26,Male,Mpumalanga,Yes,Physical
+PAT0318,Mpho,Nkosi,7699377269,1956-05-19,M,Eastern Cape,Yes,Physical
+PAT0319,Tshepo,Sithole,9581912906,1978-09-01,Female,North West,No,Digital
+PAT0320,Sipho,Sithole,8374271760,1998-01-03,M,KwaZulu-Natal,Yes,Physical
+PAT0321,Thabo,Buthelezi,8553878350,1993-06-26,Female,Western Cape,Yes,Physical
+PAT0322,Mpho,Cele,9118927238,1960-03-08,Female,Northern Cape,Yes,Digital
+PAT0323,Phiwayinkosi,Molefe,8372637031,1995-10-02,male,Mpumalanga,Yes,Physical
+PAT0324,Thandeka,Mahlangu,7241729472,1995-09-03,Female,Western Cape,Yes,Physical
+PAT0325,Zanele,Ndlovu,9573192887,1970-10-08,M,Northern Cape,Yes,Physical
+PAT0326,Sipho,Ngubane,7288337777,1997-02-06,Male,Northern Cape,Yes,Physical
+PAT0327,Luyanda,Shabalala,7572096124,1977-05-26,male,Northern Cape,Yes,Physical
+PAT0328,Ayanda,Zwane,8112965777,1974-12-05,Female,Northern Cape,No,Physical
+PAT0329,Nompumelelo,Zwane,7367697677,,Female,Northern Cape,Yes,Digital
+PAT0330,Kagiso,Zwane,7398507376,1993-04-15,M,Gauteng,Yes,Physical
+PAT0331,Lerato,Mahlangu,8480803393,1992-07-06,male,North West,No,
+PAT0332,Lindiwe,Mhlongo,9244023593,1995-02-12,Female,Free State,Yes,Digital
+PAT0333,Sipho,Ntuli,7919668240,1992-05-23,Male,Gauteng,No,Physical
+PAT0334,Nandi,Mkhize,7234227190,1992-07-16,F,North West,Yes,Digital
+PAT0335,Lindiwe,Mkhize,8743947493,1996-05-28,Male,Mpumalanga,No,Physical
+PAT0336,Palesa,Cele,,1964-09-04,Female,Limpopo,Yes,Digital
+PAT0337,Bongani,Buthelezi,7953582276,1960-03-15,Male,Gauteng,No,Digital
+PAT0338,Mpho,Shabalala,9189041302,1953-05-13,male,Mpumalanga,No,Physical
+PAT0339,Luyanda,Cele,8114189717,1971-03-02,Female,Western Cape,Yes,Physical
+PAT0340,Palesa,Buthelezi,9909449150,1963-04-16,M,Mpumalanga,No,Physical
+PAT0341,Phiwayinkosi,Zwane,7677621364,2002-04-14,male,Eastern Cape,Yes,Physical
+PAT0342,Nompumelelo,Nkosi,9668666126,1976-12-03,Male,Western Cape,Yes,Physical
+PAT0343,Thabo,Zwane,8362952646,1957-10-04,Female,Mpumalanga,No,Physical
+PAT0344,Luyanda,Ndlovu,7387392531,1979-02-02,male,KwaZulu-Natal,Yes,Physical
+PAT0345,Palesa,Mokoena,8181348673,1998-04-26,Male,Gauteng,Yes,Physical
+PAT0346,Zanele,Mokoena,7889707882,1974-11-07,Female,Mpumalanga,Yes,Physical
+PAT0347,Lerato,Khumalo,8670279152,1980-12-10,F,Northern Cape,Yes,Physical
+PAT0348,Kagiso,Molefe,8414409905,1988-07-24,female,Mpumalanga,Yes,
+PAT0349,Zanele,Mthembu,7011632976,1998-10-10,M,KwaZulu-Natal,No,Physical
+PAT0350,Zanele,Mahlangu,7505497229,1985-04-04,Male,Free State,Yes,
+PAT0351,Luyanda,Mthembu,9459865632,2003-07-22,F,Free State,Yes,Physical
+PAT0352,Lerato,Ngubane,8046934596,1950-12-24,Male,KwaZulu-Natal,Yes,Physical
+PAT0353,Kagiso,Molefe,8082008561,1994-10-15,female,KwaZulu-Natal,Yes,
+PAT0354,Palesa,Mthembu,7822537371,1962-07-22,female,Western Cape,No,Digital
+PAT0355,Phiwayinkosi,Dlamini,7261708943,2003-05-22,male,Free State,Yes,Digital
+PAT0356,Ayanda,Shabalala,7813657891,1977-09-26,M,Gauteng,Yes,Physical
+PAT0357,Tshepo,Mkhize,7723753472,1958-10-24,M,Limpopo,No,Digital
+PAT0358,Ayanda,Zwane,8911773739,1991-08-24,Male,Eastern Cape,Yes,Physical
+PAT0359,Kagiso,Hadebe,8857262761,1965-01-26,female,Gauteng,Yes,Physical
+PAT0360,Nompumelelo,Cele,7758041876,1976-05-04,M,Eastern Cape,No,Digital
+PAT0361,Sibusiso,Nkosi,8126824812,1999-08-19,Female,Gauteng,Yes,Digital
+PAT0362,Kagiso,Mahlangu,8898292460,1985-12-07,M,Mpumalanga,No,Physical
+PAT0363,Nomvula,Cele,8165222605,,Male,Limpopo,No,
+PAT0364,Sipho,Cele,7724047986,1968-04-10,F,Northern Cape,No,Physical
+PAT0365,Ntombi,Mkhize,9620504735,1982-07-18,F,North West,No,Digital
+PAT0366,Kagiso,Molefe,8586199434,1954-01-03,M,Northern Cape,Yes,
+PAT0367,Nomvula,Mahlangu,9320672063,1993-02-01,male,Free State,Yes,Digital
+PAT0368,Thabo,Khumalo,9665696342,2004-05-17,female,Limpopo,Yes,Digital
+PAT0369,Tshepo,Buthelezi,7164908489,1971-05-15,F,Gauteng,Yes,Physical
+PAT0370,Lerato,Mokoena,8599199195,1984-12-07,Male,Eastern Cape,Yes,Physical
+PAT0371,Kagiso,Shabalala,9190599837,1981-11-10,Male,Limpopo,No,Physical
+PAT0372,Bongani,Ndlovu,8123223551,1958-09-25,female,Mpumalanga,Yes,Physical
+PAT0373,Mpho,Ngubane,9754796560,1951-03-07,female,Gauteng,Yes,Physical
+PAT0374,Luyanda,Mahlangu,7009477316,1970-02-03,female,Mpumalanga,Yes,
+PAT0375,Ntombi,Sithole,8376429915,1991-06-07,F,Limpopo,Yes,Physical
+PAT0376,Luyanda,Khumalo,8805495208,1990-01-11,Male,Western Cape,Yes,
+PAT0377,Thabo,Sithole,9357603048,1988-08-28,female,Mpumalanga,No,Physical
+PAT0378,Zanele,Molefe,8046382828,1995-03-04,F,North West,No,Physical
+PAT0379,Sipho,Nkosi,7020185234,1975-06-10,female,North West,No,Physical
+PAT0380,Lerato,Mthembu,7323557988,1981-07-13,Male,Free State,Yes,Physical
+PAT0381,Luyanda,Cele,7474634744,1995-04-08,Male,North West,Yes,Digital
+PAT0382,Nomvula,Zwane,9424541009,1986-01-04,male,Mpumalanga,No,Physical
+PAT0383,Lindiwe,Buthelezi,7822817038,1952-09-08,M,KwaZulu-Natal,Yes,Physical
+PAT0384,Thandeka,Cele,7053882619,1982-11-06,Female,Free State,Yes,Digital
+PAT0385,Luyanda,Mkhize,7086132342,1990-07-04,Male,Free State,Yes,
+PAT0386,Lerato,Ndlovu,8089733832,1962-01-28,Female,Mpumalanga,Yes,Physical
+PAT0387,Ntombi,Mkhize,9478554490,1951-12-05,male,Northern Cape,Yes,
+PAT0388,Lerato,Cele,7421798984,1993-11-21,M,Limpopo,Yes,Digital
+PAT0389,Nomvula,Ntuli,7836251235,1957-06-08,F,Western Cape,No,
+PAT0390,Palesa,Khumalo,8274102908,1999-03-22,M,North West,Yes,Digital
+PAT0391,Lindiwe,Mhlongo,8397404530,1993-10-03,M,Western Cape,Yes,
+PAT0392,Nomvula,Ngubane,8966143635,1971-06-02,F,North West,Yes,Physical
+PAT0393,Lindiwe,Hadebe,9484216415,1972-12-02,male,KwaZulu-Natal,Yes,Physical
+PAT0394,Ayanda,Mkhize,,1987-01-03,female,Northern Cape,Yes,Physical
+PAT0395,Nandi,Molefe,7874899007,1983-07-20,M,Limpopo,Yes,Digital
+PAT0396,Zanele,Zwane,9579037413,1957-06-12,M,Mpumalanga,No,
+PAT0397,Lindiwe,Nkosi,9553675820,1985-05-13,male,Western Cape,Yes,Physical
+PAT0398,Luyanda,Shabalala,7156253898,1978-09-23,female,Western Cape,Yes,Physical
+PAT0399,Ntombi,Zulu,8551031077,1965-10-25,M,Mpumalanga,Yes,
+PAT0400,Phiwayinkosi,Zwane,8256025227,2004-12-17,M,Limpopo,No,
+PAT0401,Lerato,Khumalo,8481572065,1965-12-08,female,Limpopo,No,Physical
+PAT0402,Nandi,Dlamini,8903807943,1969-03-16,Male,Free State,Yes,Physical
+PAT0403,Bongani,Molefe,8431278804,1979-07-28,F,North West,Yes,Physical
+PAT0404,Bongani,Mahlangu,9182355670,2000-08-22,Male,KwaZulu-Natal,Yes,Physical
+PAT0405,Ntombi,Buthelezi,8497473712,1954-04-08,F,Free State,Yes,Physical
+PAT0406,Thabo,Buthelezi,7678292248,1993-01-25,F,Mpumalanga,Yes,Physical
+PAT0407,Bongani,Dlamini,7113475033,1979-05-20,M,Free State,Yes,Physical
+PAT0408,Tshepo,Khumalo,7923645018,1955-06-18,F,Gauteng,Yes,Physical
+PAT0409,Ntombi,Buthelezi,7114032970,1957-07-01,Female,Mpumalanga,Yes,Physical
+PAT0410,Nandi,Nkosi,7412586765,2002-12-06,female,North West,Yes,Physical
+PAT0411,Kagiso,Mthembu,9239112202,2001-02-14,female,Limpopo,Yes,
+PAT0412,Bongani,Hadebe,9867646567,1985-01-23,Female,Gauteng,Yes,Digital
+PAT0413,Zanele,Mhlongo,,1999-02-09,female,Western Cape,Yes,Digital
+PAT0414,Sizwe,Mkhize,8320951419,1970-02-27,male,North West,No,
+PAT0415,Nomvula,Khumalo,7514572120,1958-01-11,female,Mpumalanga,Yes,Physical
+PAT0416,Sibusiso,Mthembu,7322551950,1952-04-23,female,Northern Cape,Yes,
+PAT0417,Nandi,Buthelezi,9645816373,1975-04-18,female,KwaZulu-Natal,Yes,Digital
+PAT0418,Ayanda,Shabalala,9812745612,2004-06-03,F,Gauteng,Yes,Digital
+PAT0419,Mpho,Hadebe,,1971-11-15,Male,KwaZulu-Natal,No,Physical
+PAT0420,Lindiwe,Molefe,8750457028,1971-12-05,male,Free State,No,Digital
+PAT0421,Palesa,Hadebe,8548837371,2001-10-12,female,Gauteng,Yes,
+PAT0422,Nandi,Mthethwa,9030688863,1996-01-10,male,KwaZulu-Natal,Yes,Physical
+PAT0423,Nandi,Shabalala,9327054719,1987-02-13,F,Western Cape,No,
+PAT0424,Thabo,Zulu,7648733371,1984-08-10,male,Eastern Cape,Yes,Physical
+PAT0425,Ayanda,Zulu,8349295225,1979-06-03,male,Mpumalanga,No,Digital
+PAT0426,Sizwe,Ndlovu,8476513674,1965-07-20,Female,Mpumalanga,No,Physical
+PAT0427,Tshepo,Mthembu,8304313116,1963-09-15,F,North West,Yes,Physical
+PAT0428,Kagiso,Zulu,7714167166,1970-03-02,female,Gauteng,Yes,Physical
+PAT0429,Sipho,Shabalala,7761789554,1976-02-03,Male,KwaZulu-Natal,No,Physical
+PAT0430,Kagiso,Hadebe,,1967-04-18,Male,Free State,Yes,Digital
+PAT0431,Lindiwe,Cele,,1959-09-02,Male,Mpumalanga,No,
+PAT0432,Nompumelelo,Ntuli,8465018790,1974-06-01,Male,Mpumalanga,Yes,Physical
+PAT0433,Sizwe,Ngubane,7918521827,1985-01-14,female,Free State,Yes,Physical
+PAT0434,Luyanda,Nkosi,9895514531,1965-06-14,Male,Western Cape,Yes,Physical
+PAT0435,Tshepo,Mkhize,8710885451,2001-03-03,F,KwaZulu-Natal,Yes,Digital
+PAT0436,Thabo,Molefe,9120524876,1990-06-25,F,Northern Cape,No,Physical
+PAT0437,Zanele,Zulu,7002274177,1962-05-02,male,Mpumalanga,Yes,Physical
+PAT0438,Kagiso,Khumalo,7277339795,1957-05-02,Female,North West,No,Digital
+PAT0439,Bongani,Zulu,8964837024,1953-09-15,M,Mpumalanga,No,
+PAT0440,Thandeka,Ndlovu,9509705146,1953-12-12,Male,Limpopo,Yes,
+PAT0441,Kagiso,Ntuli,8755004368,1981-12-13,M,Eastern Cape,No,Digital
+PAT0442,Nomvula,Mhlongo,8349702792,1980-04-18,M,Western Cape,Yes,Digital
+PAT0443,Zanele,Dlamini,9843614476,1978-12-06,M,Gauteng,Yes,Digital
+PAT0444,Phiwayinkosi,Ngubane,8328184030,1981-11-02,male,KwaZulu-Natal,Yes,Digital
+PAT0445,Ntombi,Mkhize,9815014072,1972-03-19,F,Free State,Yes,Digital
+PAT0446,Lindiwe,Shabalala,8002595021,1954-03-02,Male,Northern Cape,Yes,Digital
+PAT0447,Tshepo,Nkosi,8686037514,1959-09-02,female,North West,No,Physical
+PAT0448,Ntombi,Mokoena,8428678112,1960-02-24,male,Northern Cape,Yes,Physical
+PAT0449,Phiwayinkosi,Mhlongo,7576464507,1964-09-23,F,Western Cape,Yes,
+PAT0450,Nompumelelo,Mthethwa,7133258970,1968-09-03,female,Limpopo,Yes,Physical
+PAT0451,Zanele,Zwane,8808612625,1970-09-28,F,Limpopo,Yes,Physical
+PAT0452,Sizwe,Hadebe,9397918973,1995-03-07,Male,Free State,Yes,Physical
+PAT0453,Thandeka,Mkhize,8397509070,1965-12-01,male,Eastern Cape,No,Physical
+PAT0454,Ayanda,Nkosi,8262629666,1953-04-07,M,Limpopo,Yes,Physical
+PAT0455,Kagiso,Mokoena,8379565971,1989-01-05,male,Free State,Yes,Physical
+PAT0456,Nomvula,Khumalo,8278392205,1988-12-20,male,Eastern Cape,Yes,
+PAT0457,Ntombi,Ngubane,9822016975,1978-04-04,Male,Western Cape,Yes,Physical
+PAT0458,Thabo,Sithole,7943715757,1987-07-18,M,KwaZulu-Natal,No,Physical
+PAT0459,Nompumelelo,Cele,7191986588,1986-04-03,M,Western Cape,Yes,Digital
+PAT0460,Luyanda,Mkhize,8588691966,1956-11-28,Female,Free State,Yes,
+PAT0461,Ayanda,Hadebe,7462644432,1971-07-05,Female,KwaZulu-Natal,Yes,Digital
+PAT0462,Lindiwe,Ndlovu,9337204701,1971-05-23,F,Free State,Yes,
+PAT0463,Ntombi,Dlamini,8560906182,1951-11-21,female,Western Cape,Yes,
+PAT0464,Sipho,Zwane,9066257704,2003-06-15,Female,Mpumalanga,Yes,Physical
+PAT0465,Tshepo,Mahlangu,8519792759,1970-10-23,Male,Mpumalanga,Yes,
+PAT0466,Phiwayinkosi,Mthembu,9572653482,1988-05-01,male,Western Cape,No,Physical
+PAT0467,Tshepo,Cele,9866871951,1962-05-26,M,Northern Cape,Yes,Physical
+PAT0468,Zanele,Ngubane,7936023079,1999-05-21,male,Northern Cape,Yes,
+PAT0469,Palesa,Dlamini,7597775524,1967-05-13,Male,Limpopo,No,Physical
+PAT0470,Nompumelelo,Ngubane,8736339477,1981-04-17,male,Limpopo,Yes,
+PAT0471,Palesa,Shabalala,7729488186,1984-01-28,M,KwaZulu-Natal,Yes,Physical
+PAT0472,Ntombi,Molefe,8496221768,1960-05-20,Female,KwaZulu-Natal,Yes,Digital
+PAT0473,Tshepo,Mahlangu,7641786490,,female,Mpumalanga,No,
+PAT0474,Sizwe,Ndlovu,8794757645,1953-02-20,M,Northern Cape,No,Physical
+PAT0475,Palesa,Mkhize,7381016797,1997-12-18,M,Eastern Cape,Yes,Digital
+PAT0476,Luyanda,Ndlovu,8863414335,1989-03-09,M,Western Cape,Yes,Physical
+PAT0477,Lerato,Sithole,9745879038,1978-04-06,F,Eastern Cape,Yes,Physical
+PAT0478,Ayanda,Hadebe,7787245873,1991-05-10,F,KwaZulu-Natal,Yes,Physical
+PAT0479,Ntombi,Cele,8837761054,1962-01-09,M,Eastern Cape,No,Physical
+PAT0480,Sizwe,Mhlongo,8060484462,1966-08-09,Male,Free State,No,Digital
+PAT0481,Bongani,Khumalo,8096761832,1990-01-02,M,Gauteng,Yes,Physical
+PAT0482,Phiwayinkosi,Shabalala,9077076954,1997-01-10,F,Mpumalanga,No,Physical
+PAT0483,Thandeka,Hadebe,7763199519,1999-10-28,F,Northern Cape,Yes,Physical
+PAT0484,Palesa,Hadebe,8626534310,1989-05-28,male,Mpumalanga,Yes,Digital
+PAT0485,Sizwe,Mahlangu,7400878776,1960-07-02,Male,Free State,Yes,Physical
+PAT0486,Luyanda,Mkhize,8014598970,1957-11-22,Female,Northern Cape,Yes,Physical
+PAT0487,Thabo,Ngubane,7350126207,1957-01-15,male,KwaZulu-Natal,No,Physical
+PAT0488,Palesa,Sithole,9062123538,1966-12-23,F,Western Cape,Yes,
+PAT0489,Palesa,Ntuli,7122765547,1973-03-05,male,Western Cape,Yes,Physical
+PAT0490,Ayanda,Mokoena,8214016005,1981-12-01,male,Limpopo,Yes,
+PAT0491,Ntombi,Zwane,9445471822,1972-05-08,male,North West,Yes,Digital
+PAT0492,Thandeka,Mhlongo,7471587150,1962-08-25,Male,Free State,Yes,Physical
+PAT0493,Phiwayinkosi,Sithole,9666709966,,Female,Northern Cape,No,
+PAT0494,Tshepo,Molefe,9782773198,1994-03-24,Female,North West,Yes,Physical
+PAT0495,Mpho,Khumalo,8845674695,1984-08-17,M,North West,Yes,Physical
+PAT0496,Mpho,Shabalala,8673932308,1954-04-21,F,Western Cape,Yes,Physical
+PAT0497,Mpho,Zulu,8625925177,1989-10-14,female,KwaZulu-Natal,Yes,Physical
+PAT0498,Ayanda,Mhlongo,9610117852,1985-11-20,Male,Mpumalanga,Yes,
+PAT0499,Nompumelelo,Khumalo,7880564594,1964-03-07,Female,Western Cape,No,Physical
+PAT0500,Sibusiso,Dlamini,8032462409,2000-12-19,F,Free State,Yes,
+PAT0091,Ayanda,Ntuli,9131913200,1974-01-21,Male,Mpumalanga,Yes,Physical
+PAT0193,Tshepo,Shabalala,7830878723,2002-02-24,F,Northern Cape,No,
+PAT0340,Palesa,Buthelezi,9909449150,1963-04-16,M,Mpumalanga,No,Physical
+PAT0190,Nandi,Mhlongo,7041016052,1969-04-09,Male,Northern Cape,Yes,Physical
+PAT0176,Kagiso,Molefe,7788827617,1950-10-28,F,KwaZulu-Natal,No,Physical
